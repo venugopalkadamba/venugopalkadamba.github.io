@@ -6,6 +6,10 @@
 	font-family: 'Roboto Slab', serif;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 .heading{
 	font-size: 45px;
 	font-weight: 600;
@@ -112,7 +116,7 @@ nav{
 
 /* HOME */
 .home-container{
-	height: 700px;
+	height: 750px;
 	background-image: url("images/background.jpg");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
