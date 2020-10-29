@@ -294,3 +294,19 @@ nav{
 	font-size: 17px;
 	font-weight: 700;
 }
+
+.strip{
+	height: 2px;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	width: 100%;
+}
+
+.footer-strip{
+	height: 2px;
+	margin: 0;
+	padding: 0;
+	background-color: cyan;
+	width: 100%;
+}
